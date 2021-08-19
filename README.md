@@ -1,5 +1,11 @@
 ### Hi there 👋
+I am Alex, a full stack developer (angular, .net).
 
+I am currently working for Liazon Corporation a Willis Towers watson company.
+
+Reach me at:
+ - [My Gmail](mailto://alexander.umale@gmail.com)
+ - [Linkedin](https://linkedin.com/in/alexanderumale)
 <!--
 **alexz01/alexz01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
