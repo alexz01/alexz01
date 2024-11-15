@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am Alex, a full stack developer (angular, .net).
 
-I am currently working for Liazon Corporation a Willis Towers watson company.
+I'm currently working as Senior Software Engineer for [Willis Towers Watson](https://www.wtwco.com/en-us) on their [Benefits Access](https://www.wtwco.com/en-us/solutions/products/benefits-access) product
 
 Reach me at:
  - [My Gmail](mailto://alexander.umale@gmail.com)
