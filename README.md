@@ -6,6 +6,8 @@ I'm currently working as Senior Software Engineer for [Willis Towers Watson](htt
 Reach me at:
  - [My Gmail](mailto://alexander.umale@gmail.com)
  - [Linkedin](https://linkedin.com/in/alexanderumale)
+
+Checkout my website: [alexanderumale.com](https://alexanderumale.com)
 <!--
 **alexz01/alexz01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
